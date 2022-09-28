@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+ }
+
+.navbar{
+    margin: 0px;
+    padding: 0px;
+}
